@@ -1,4 +1,4 @@
-[MasterHead](https://media.gettyimages.com/vectors/coding-and-development-banner-and-icons-vector-id636525264?s=2048x2048)
+[![MasterHead](https://image.shutterstock.com/image-vector/web-development-landing-page-people-260nw-1838445880.jpg)]
 <h1 align="center">Hi 👋, I'm Vaibhav Jagdevrao Sultane</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
