@@ -8,11 +8,11 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-vaibhav-sultane.netlify.app/](https://portfolio-vaibhav-sultane.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vaibhav-sultane-portfolio.netlify.app/)
 
 - 📫 How to reach me **vaibhavsultane1997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G3PtCtCEILDH0DvLVXaiUMQhQ0Q0kHXG/view](https://drive.google.com/file/d/1G3PtCtCEILDH0DvLVXaiUMQhQ0Q0kHXG/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hOt-5EXzBIkdRIaD8tg9jF1y20KZxapU/view?usp=sharing)
 <br>
 <br>
 <br>
