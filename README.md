@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Sultane</h1>
+[<h1 align="center">Hi 👋, I'm Vaibhav Sultane</h1>
 <p align="center">- I am a Full stack web developer doing militry style coding and learning MERN Stack at Masai School. I have done various group as well as individual projects in my coding journey.
     I also did my B.E. in Mechanical Engineering 🎓 from Amravati University 🏛. 
      My interests are coding, reading about planets, browsing, exploring new areas.
@@ -40,3 +40,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav2416&show_icons=true&locale=en&layout=compact" alt="vaibhav2416" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav2416&show_icons=true&locale=en" alt="vaibhav2416" /></p>
+](https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)
