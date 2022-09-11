@@ -9,7 +9,7 @@
 
 <br>
 <br>
-- 👨‍💻 All of my projects are available at [https://vaibhav-portfoilio.netlify.app/)
+- 👨‍💻 Portfolio availaible at [https://vaibhav-portfoilio.netlify.app/)
 
 - 📫 How to reach me **vaibhavsultane1997@gmail.com**
 
