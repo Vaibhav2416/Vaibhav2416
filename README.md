@@ -9,11 +9,11 @@
 
 <br>
 <br>
-- 👨‍💻 All of my projects are available at [https://vaibhav-sultane-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vaibhav-portfoilio.netlify.app/)
 
 - 📫 How to reach me **vaibhavsultane1997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hOt-5EXzBIkdRIaD8tg9jF1y20KZxapU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EQVP6dVHH3q9JJ7IxAco5AjoDb5iT7j3/view?usp=sharing)
 <br>
 <br>
 <br>
