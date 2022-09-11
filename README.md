@@ -1,13 +1,14 @@
 [![MasterHead](https://media.gettyimages.com/vectors/coding-and-development-banner-and-icons-vector-id636525264?s=2048x2048)]
 <h1 align="center">Hi 👋, I'm Vaibhav Jagdevrao Sultane</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">- I am a Full stack web developer doing militry style coding and learning MERN Stack at Masai School. I have done various group as well as individual projects in my coding journey.
+    I also did my B.E. in Mechanical Engineering from Amravati University. After graduation I have done job in plastic industry as management trainee for eight months.
+     My interests are coding, reading about planets, browsing, exploring new areas.
+   </h3>
+
 <img align="right" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
 
 - 🌱 I’m currently learning **MERN Track At Masai School**
 
-- I am a Full stack web developer doing militry style coding and learning MERN Stack at Masai School. I have done various group as well as individual projects in my coding journey.
- I also did my B.E. in Mechanical Engineering from Amravati University. After graduation I have done job in plastic industry as management trainee for eight months.
-  My interests are coding, reading about planets, browsing, exploring new areas.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vaibhav-sultane.netlify.app/](https://portfolio-vaibhav-sultane.netlify.app/)
 
