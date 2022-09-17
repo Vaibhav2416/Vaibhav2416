@@ -47,3 +47,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav2416&show_icons=true&locale=en&layout=compact" alt="vaibhav2416" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav2416&show_icons=true&locale=en" alt="vaibhav2416" /></p>
+
+<img src="https://raw.githubusercontent.com/Vaibhav/Vaibhav/blob/output/snake.svg" alt="Snake animation" />
+
