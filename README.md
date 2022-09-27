@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vaibhavsultane1997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EQVP6dVHH3q9JJ7IxAco5AjoDb5iT7j3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10w-mjzmY9XZQyrT9AG9Xm7HDyj-scLOx/view?usp=sharing)
 <br>
 <br>
 <br>
