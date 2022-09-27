@@ -9,13 +9,13 @@
 
 <br>
 <br>
-- 👨‍💻 Portfolio availaible at [https://vaibhav-portfoilio.netlify.app/)
+- 👨‍💻 Portfolio availaible at https://vaibhav-sultane-portfolio.vercel.app/
 
 - 🌱 I’m currently learning **Full Stack Web Development Programme and DSA at Masai School**
 
 - 📫 How to reach me **vaibhavsultane1997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10w-mjzmY9XZQyrT9AG9Xm7HDyj-scLOx/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/10w-mjzmY9XZQyrT9AG9Xm7HDyj-scLOx/view?usp=sharing
 <br>
 <br>
 <br>
