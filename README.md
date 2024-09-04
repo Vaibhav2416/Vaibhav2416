@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sultane</h1>
-<p align="center">- I am a Full stack web developer doing militry style coding and learning MERN Stack at Masai School. I have done various group as well as individual projects in my coding journey.
-    I also did my B.E. in Mechanical Engineering 🎓 from Amravati University 🏛. 
-     My interests are coding, reading about planets, browsing, exploring new areas.
-   </p>
+<p align="center"> - I am a Full Stack Web Developer with a strong passion for teaching and curriculum development. I specialize in the MERN Stack and have experience leading projects that enhance student learning and engagement. - I’ve worked as a Curriculum Engineer, conducting interactive coding and DSA sessions, and have developed educational tools like student platforms and resume builders. - My background includes a B.E. in Mechanical Engineering 🎓 from Amravati University 🏛, which has equipped me with strong analytical and problem-solving skills. - I’m enthusiastic about coding, mentoring, and continually learning new technologies to improve both my skills and the educational experiences of others. </p>
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
 
 
 <br>
 <br>
-- 👨‍💻 Portfolio availaible at https://vaibhav-sultane-portfolio.vercel.app/
 
-- 🌱 I’m currently learning **Full Stack Web Development Programme and DSA at Masai School**
+- 🌱 I’m currently teaching **Full Stack Web Development Programme and DSA at Masai School**
 
 - 📫 How to reach me **vaibhavsultane1997@gmail.com**
 
